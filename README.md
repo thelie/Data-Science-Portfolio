@@ -8,3 +8,4 @@
 ## [4. Исследование игровых платформ](/Games-platforms-analysis)
 ## [5. Рекомендации нового тарифа телеком компании](/Telecom-tariff-recommendation)
 ## [6. Прогнозирование оттока клиентов банка](/Bank-customer-churn-modelling)
+## [7. Определение наиболее перспективного региона](/Search-Promising-Region)
