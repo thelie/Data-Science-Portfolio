@@ -4,4 +4,5 @@
 
 ## [1. Кредитный скоринг:](/Credit-Scoring)
 ## [2. Исследование рынка недвижимости в Санкт-Петербурге](/St-Petersburg-real-estate-research)
-## [3. Анализ тарифов телеком компании](/Telecom)
+## [3. Анализ тарифов телеком компании](/Telecom-tariff-analysis)
+## [4. Исследование игровых платформ](/Games-platforms-analysis)
